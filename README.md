@@ -29,4 +29,4 @@ Based off of [new_banking](https://forum.fivem.net/t/release-new-banking-reskin/
 
 ![image01](https://i.imgur.com/L2UoEKO.png)
 
-![image02](blob:https://imgur.com/822b4c90-d433-4542-9794-e29f8a032de0)
+![image02](https://imgur.com/9dl0f7s)
