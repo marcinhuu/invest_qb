@@ -14,7 +14,6 @@ Based off of [new_banking](https://forum.fivem.net/t/release-new-banking-reskin/
 - Added new webooks with all informations
 - Added new **Config.Locations** for better understanding
 - Removed the "Keys" code
-- 
 
 ## Installation
 1. Download invest_qb
@@ -26,3 +25,8 @@ Based off of [new_banking](https://forum.fivem.net/t/release-new-banking-reskin/
 # Credits
 - Made by Tazio 2019 (finished it in 2020)
 - Original script: https://github.com/Tazi0/esx_invest
+
+
+![image01](https://i.imgur.com/L2UoEKO.png)
+
+![image02](blob:https://imgur.com/822b4c90-d433-4542-9794-e29f8a032de0)
